@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "0df5fe09c786935acd6092475ab4829b147ca427"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DotnetDemo/1.0.0": {
+        "dependencies": {
+          "Congether.SDK.DotNet": "1.0.0-beta.2"
+        },
+        "runtime": {
+          "DotnetDemo.dll": {}
+        }
+      },
+      "Congether.SDK.DotNet/1.0.0-beta.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Congether.SDK.DotNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Congether.SDK.DotNet/1.0.0-beta.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ddKu7+VQ3NFE0B9l8EqlETCWNwT77cTFujT9YOZG7N2DQSnYi2RXXyvMAb7hJ06YiQDMNFSjYtdlS59mPC+Lxg==",
+      "path": "congether.sdk.dotnet/1.0.0-beta.2",
+      "hashPath": "congether.sdk.dotnet.1.0.0-beta.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    }
+  }
+}

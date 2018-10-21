@@ -1,0 +1,11 @@
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\bin\Debug\netcoreapp2.1\DotnetDemo.deps.json
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\bin\Debug\netcoreapp2.1\DotnetDemo.runtimeconfig.json
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\bin\Debug\netcoreapp2.1\DotnetDemo.runtimeconfig.dev.json
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\bin\Debug\netcoreapp2.1\DotnetDemo.dll
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\obj\Debug\netcoreapp2.1\DotnetDemo.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\obj\Debug\netcoreapp2.1\DotnetDemo.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\obj\Debug\netcoreapp2.1\DotnetDemo.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\obj\Debug\netcoreapp2.1\DotnetDemo.AssemblyInfo.cs
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\bin\Debug\netcoreapp2.1\DotnetDemo.pdb
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\obj\Debug\netcoreapp2.1\DotnetDemo.dll
+C:\Users\patri\source\repos\github\schnell-technology\congether-sdk-demos\dotnet-demo\DotnetDemo\obj\Debug\netcoreapp2.1\DotnetDemo.pdb
